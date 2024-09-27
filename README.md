@@ -1,12 +1,16 @@
 **使用文档**
 
-**1. 下载程序**
+**1. 相关库安装**
 
-从合适的来源下载 `ppt to docx.exe` 可执行文件。
+```
+pip install -r requirments.txt
+```
 
 **2. 运行程序**
 
-双击 `ppt to docx.exe` 打开程序。
+```
+python ./main.py
+```
 
 **3. 输入待处理文件夹或文件路径**
 
